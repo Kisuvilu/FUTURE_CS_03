@@ -1,2 +1,2 @@
 # FUTURE_CS_03
-Password Analyzer
+Python Password Manager
